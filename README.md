@@ -1,2 +1,2 @@
-# Eight-Bit-Computer-Fonts
-Fonts generated from original bitmaps from classic computers
+# Atari8Bit-fonts
+Fonts generated from original bitmaps from Atari 8-Bit computers
