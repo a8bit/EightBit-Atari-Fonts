@@ -1,1 +1,1 @@
-![EightBit Atari-Yahtzee.ttf](https://github.com/ChoccyHobNob/EightBit-Atari-Fonts/blob/master/Y/EightBit%20Atari-Yahtzee-sample.png "EightBit Atari-Yahtzee.ttf")
+![EightBit Atari-Yahtzee.ttf](https://github.com/ChoccyHobNob/EightBit-Atari-Fonts/blob/master/Y/EightBit%20Atari-Yahtzee-sample.png "EightBit Atari-Yahtzee.ttf") 
