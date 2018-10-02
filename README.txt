@@ -12,5 +12,3 @@ The starter font for all of these is based upon the hard work of [Mark Simonson]
 
 Font outlines (c)2018 Steve Boswell, no other copyright is expressed or implied.
 Released under the SIL Open Font License, Version 1.1
-
-![EightBit_Atari-Regular.ttf](https://github.com/ChoccyHobNob/EightBit-Atari-Fonts/blob/master/EightBit-Atari-Fonts/EightBit_Atari-Regular-sample.png "EightBit_Atari-Regular.ttf")
