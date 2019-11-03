@@ -168,5 +168,5 @@ DerivedData
 .idea
 
 # FontForge
-*.fnt
+#*.fnt
 *.sfd
